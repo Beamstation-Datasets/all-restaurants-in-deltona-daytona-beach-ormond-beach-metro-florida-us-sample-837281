@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e8f6a7b0-9643-4602-8ddc-188aff40bb02",
+  "export_job_id": "74422353-e5a4-4824-9e5a-4b2600b72bcc",
   "id_short": 837281,
-  "published_at": "2026-04-18T07:06:31Z",
+  "published_at": "2026-04-21T19:52:22Z",
   "repo_name": "all-restaurants-in-deltona-daytona-beach-ormond-beach-metro-florida-us-sample-837281",
   "sample_asset_name": "beamstation_837281_restaurants-us-deltonadaytonabeachormondbeachfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/837281/beamstation_837281_restaurants-us-deltonadaytonabeachormondbeachfl_SAMPLE_DIST.csv",
-  "sample_records": 93,
-  "sample_sha256": "f2080c979dd10aef20b85dd9ead24f6eddbb75d8f0f43cc0373e1ca682623fab",
-  "sample_size_bytes": 368568,
-  "total_records": 938
+  "sample_records": 74,
+  "sample_sha256": "6c938268a43016a879c05a6b9295bd1e19454d5ef9cf5d91148b9c040161865f",
+  "sample_size_bytes": 303635,
+  "total_records": 742
 }
