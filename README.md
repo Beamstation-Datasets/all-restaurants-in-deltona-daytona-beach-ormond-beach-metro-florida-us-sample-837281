@@ -1,6 +1,6 @@
 # All Restaurants in Deltona-Daytona Beach-Ormond Beach (Metro), Florida, US
 
-> Free BeamStation sample export with 101 rows and masked direct-contact fields.
+> Free BeamStation sample export with 107 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `837281` |
 | Location | Deltona-Daytona Beach-Ormond Beach, FL |
 | Category | Restaurants |
-| Full dataset size | 1,010 records |
-| Free sample size | 101 records (10.0%) |
-| Last export | 2026-04-28T16:17:47.804328+00:00 |
+| Full dataset size | 1,072 records |
+| Free sample size | 107 records (9.98%) |
+| Last export | 2026-05-06T13:41:22.082279+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-deltona-daytona-beach-ormond-beach-metro-florida-us-sample-837281/releases/download/sample-latest/beamstation_837281_restaurants-us-deltonadaytonabeachormondbeachfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
